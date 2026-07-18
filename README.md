@@ -37,7 +37,7 @@ The report is organized into four pages, each designed to answer a different bus
 ## Executive Overview
 
 <p align="center">
-<img src="Images/Executive.png" width="900">
+<img src="Images/Executive Overview.png" width="900">
 </p>
 
 **Key Highlights**
